@@ -1,0 +1,2 @@
+# Animal-Recognition-Using-SVM
+## Animal Recognition is a process of recognize the animal image by using the machine learning algorithms. In this implement, we will use Super Vector Machine algorithms which is making for image classification and it is used with data in vector form only. By this, we need Scikit-learn which is an open-source library that has various of feature such as classification, regression, clustering and including Super Vector Machine algorithms.
